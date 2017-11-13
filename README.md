@@ -1,5 +1,5 @@
 
-# Tic-Tac-Toe Game
+# Tic-Tac-Toe
 
 Working through the official react.js tutorial to build a working game and learn about react.
 
